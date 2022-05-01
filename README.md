@@ -1,5 +1,6 @@
 # Fraudit-lecture
-review the Fraudit lecture
+재무 빅데이터 특강 정리  
+- 언어: Python   
+- 프로그램: Fraudit
 
-This is to review the "Special Lecture on Financial Big Data" that I took as a special lecture at the university in 2019. 
-The language used Python, but this code is recommended to work with the Fraudit software.
+*주관: 한국공인회계사회*
